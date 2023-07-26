@@ -1,0 +1,6 @@
+[submodule "blst"]
+	path = blst
+	url = https://github.com/supranational/blst.git
+[submodule "sppark"]
+	path = sppark
+	url = https://github.com/supranational/sppark.git
